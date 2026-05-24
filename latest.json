@@ -1,10 +1,10 @@
 {
+  "pub_date": "2026-05-24T08:40:37Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
-      "url": "https://github.com/Lynncoo/tax-admin/releases/download/v0.1.28/"
+      "url": "https://github.com/Lynncoo/tax-admin/releases/download/v0.1.28/",
+      "signature": ""
     }
   },
-  "version": "0.1.28",
-  "pub_date": "2026-05-24T07:20:46Z"
+  "version": "0.1.28"
 }
