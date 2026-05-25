@@ -1,0 +1,10 @@
+{
+  "pub_date": "2026-05-25T08:14:42Z",
+  "version": "0.1.0",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTNEtPOHhLSXRpQzNmeW5rUEJwVmlSbXRqM3NqNCszNWszUll5bjFubjk5eVdhZ004clJBc0JVcjRJNDJ4SVN6a3VicFF0VG82bFlNYUJUT2tTUVdqejYveWMwS0xyUlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Njk2ODc1CWZpbGU6dGF4X2FkbWluXzAuMS4wX3g2NC1zZXR1cC5leGUKZUxKdUJyTXlaUWZZOElkVHNKTXlWcFoxZ21lYnN0TFFTQU05VkFhdE9rVmtubUdBSU1Rb0E2TUx2MUQrai9jcUlYN20yR0MxZEg2WjZ4VXpKNUMzRGc9PQo=",
+      "url": "https://github.com/Lynncoo/tax-admin/releases/download/v0.1.0/tax_admin_0.1.0_x64-setup.exe"
+    }
+  }
+}
